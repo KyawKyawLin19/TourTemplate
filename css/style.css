@@ -1,10 +1,39 @@
-/* body {
-  background: url('../images/home.jpg');
-  background-size: cover;
-  height: 100%;
-  background-repeat: no-repeat;
-} */
+/* login-register */
 
-nav {
-  /* background: black !important; */
+body {
+  background: #E0632F;
+}
+
+.logo_login {
+  padding : 15px 25px;
+}
+
+.margin_30 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.box_login {
+  /* border: 1px solid white; */
+  /* background: url('../images/waves.png') bottom no-repeat #1AA79B; */
+}
+
+.login_title {
+  color: #fff;
+  width: 360px;
+  height: 173px;
+  border: 1px solid white;
+  background: url('../images/waves.png') bottom no-repeat #1AA79B;
+}
+
+.login_title h5 {
+  margin-top:100px;
+}
+
+.login_content {
+  width: 360px;
+  height: 400px;
+  border: 1px solid white;
+  margin-bottom: 45px;
+  background: #fff;
 }
