@@ -1,39 +1,92 @@
-/* login-register */
-
-body {
-  background: #E0632F;
+* {
+  font-family: Roboto,Helvetica,Arial,sans-serif;
+  color: #555555;
 }
 
-.logo_login {
-  padding : 15px 25px;
+.most-viewed {
+  background: url('../images/pattern.png');
 }
 
-.margin_30 {
-  margin-top: 30px;
+.travel-guide {
+  background: url('../images/parallax_home_bright.jpg') fixed;
+}
+
+.features {
+  background: #ED145B;
+}
+
+.footer-link {
+  text-decoration: none !important;
+  color: #555555;
+}
+
+.footer-link:hover {
+  color: #ED145B;
+}
+
+.text-wh{
+  color: white;
+}
+
+.red-text {
+  color: #ED145B;
+}
+
+.footer-title {
+  font-size: 16px;
+  font-weight: 900;
+  color: #222222;
+  margin-bottom: 10px;
+}
+
+.mg-50 {
+  margin-top: 50px; 
+}
+
+.mg-60 {
+  margin-top: 60px; 
+  margin-bottom: 50px;
+}
+
+.mg-20 {
+  margin-top: 20px; 
+}
+
+.mb-30 {
   margin-bottom: 30px;
 }
 
-.box_login {
-  /* border: 1px solid white; */
-  /* background: url('../images/waves.png') bottom no-repeat #1AA79B; */
-}
-
-.login_title {
+.footer-btn {
+  background: #1aa79b;
   color: #fff;
-  width: 360px;
-  height: 173px;
-  border: 1px solid white;
-  background: url('../images/waves.png') bottom no-repeat #1AA79B;
+  border-radius: 3px;
+  text-decoration: none !important;
+  padding: 10px 25px;
+  transition: 0.2s ease-in-out;
+  margin-top: 60px;
 }
 
-.login_title h5 {
-  margin-top:100px;
+.footer-btn:hover {
+    background: #ed145b;
+    color: #fff;
 }
 
-.login_content {
-  width: 360px;
-  height: 400px;
-  border: 1px solid white;
-  margin-bottom: 45px;
-  background: #fff;
+.main-title h2{
+  font-size: 38px;
+  color: #222222;
+  font-weight: 300;
+}
+
+@media(min-width:999px){
+.content-text {
+  font-size: 18px;
+  font-weight: 300;
+  padding-left: 160px;
+  padding-right: 160px;
+}
+
+}
+
+.test {
+  margin-bottom: 50px;
 }

@@ -16,7 +16,7 @@
     <div class="container-fluid p-0">
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand" href="#"><img src="images/logo.png"alt=""></a>
-        <button class="navbar-toggler" type="button"data-toggle="collapse"    data-target="#navbarSupportedContent"aria-controls="navbarSupported  Content" aria-expanded="false"aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button"data-toggle="collapse"  data-target="#navbarSupportedContent"aria-controls="navbarSupported  Content" aria-expanded="false"aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
 
@@ -162,10 +162,10 @@
       </div>
     </div>
 
-    <div class="features" style="height:80vh;">
+    <div class="features">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6">
+          <div class="col-lg-6 text-wh">
             <h2>Get More Features</h2>
             <h3>with a Premium plan</h3>
             <ul class="nav flex-column">
@@ -186,7 +186,7 @@
             </ul>
           </div>
           <div class="col-lg-6">
-              
+          
           </div>
         </div>
       </div>
@@ -198,8 +198,7 @@
           <div class="row">
             <div class="col-md-12">
               <p class="footer-title">About us</p>
-              <p>
-                Dolorem nusquam molestie ut mei, ut sit dico omnis. Cu quod congue has, at sumo esse viderer mea. Id assum saperet definitiones qui.
+              <p>Dolorem nusquam molestie ut mei, ut sit dico omnis. Cu quod congue has, at sumo esse viderer mea. Id assum saperet definitiones qui.
               </p>
             </div>
           </div>
@@ -226,8 +225,7 @@
         <div class="col-lg-3 col-md-4">
           <p class="footer-title">Newsletter</p>
           <p>Join our newsletter to keep be informed about offers and news.</p>
-          <input type="text" class="form-control mg-20" placeholder="Your mail">
-          <br>
+          <input type="text" class="form-control mg-20" placeholder="Your mail"><br>
           <a href="index.html" class="footer-btn">Subscribe</a>
         </div>
         <div class="col-lg-2 col-md-4">
@@ -245,14 +243,14 @@
           </div>
         </div>
       </div>
-      <hr class="mg-50 mb-30">
+      <hr class="mg-50 mg-20">
       <div class="row">
-      <div class="col-md-6">
-        <p>&copy; TravelGuide 2016 - All Rights Reserved</p>
-      </div>
-      <div class="col-md-6">
-        icon  
-      </div>
+        <div class="col-md-6">
+          <p>&copy; TravelGuide 2016 - All Rights Reserved</p>
+        </div>
+        <div class="col-md-6">
+          icon  
+        </div>
       </div>
     </div>
     

@@ -1,0 +1,21 @@
+<button class="login-regist"><a href="#" class="login_btn">Log in</a></button>
+<button class="login-regist"><a href="#" class="register_btn">Register</a></button>
+
+
+.login-regist {
+  border-radius: 7px;
+}
+
+.login-regist:hover {
+  background: #E0632F;
+}
+
+.login_btn, .register_btn {
+  text-decoration: none !important;
+  color: #1AA79B;
+  padding: 10px 25px;
+}
+
+.login_btn:hover , .register_btn:hover {
+  color: #FFF;
+}
