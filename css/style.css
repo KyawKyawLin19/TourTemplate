@@ -42,10 +42,15 @@
 .mg-50 {
   margin-top: 50px; 
 }
-
+/* 
 .mg-60 {
   margin-top: 60px; 
   margin-bottom: 50px;
+} */
+
+.pT-60{
+  padding-top:60px;
+  padding-bottom: 50px; 
 }
 
 .mg-20 {
@@ -138,4 +143,25 @@
   border-right: 3px solid #79A70A;
   border-bottom: 3px solid transparent;
   border-top: 3px solid #79A70A;
+}
+
+.wrapper {
+  padding-left: 0px !important;
+  margin-top: 20px;
+}
+
+.box {
+  box-sizing: border-box;
+  background: #fff;
+  padding: 50px;
+}
+
+.bg-color {
+  background:#ededed;
+}
+
+.test {
+  width: 20px;
+  height: 50px;
+  background: #000;
 }
