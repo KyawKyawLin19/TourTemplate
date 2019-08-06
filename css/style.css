@@ -151,7 +151,7 @@
   margin-top: 40px;
 }
 
-.box {
+.card-box {
   box-sizing: border-box;
   background: #fff;
   padding: 50px;
@@ -161,11 +161,15 @@
   background:#ededed;
 }
 
-/* .test {
-  width: 20px;
-  height: 50px;
-  background: #000;
-} */
+.un-line {
+  width: 120px;
+  color: #000;
+}
+
+.red-line {
+  color: #ED145B;
+  width: 50%;
+}
 
 .circle-num {
   position: absolute;
