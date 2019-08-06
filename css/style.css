@@ -148,7 +148,7 @@
 .wrapper {
   position: relative;
   padding-left: 0px !important;
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 .box {
@@ -167,18 +167,17 @@
   background: #000;
 } */
 
-.test {
+.circle-num {
   position: absolute;
-  top:-25px;
-  left: 50%;
-  display: block;
+  border-radius: 50%;
+  border: 1px solid #ededed;
   width: 50px;
   line-height: 50px;
-  border-radius: 50%;
-  text-align: center;
+  color: #666666;
   font-size: 16px;
   font-weight: 700;
-  border: 1px solid #ededed;
+  top: -25px;
+  left: 50%;
   background: #fff;
   margin-left: -25px;
 }
