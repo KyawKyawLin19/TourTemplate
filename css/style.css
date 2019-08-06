@@ -169,14 +169,16 @@
 
 .test {
   position: absolute;
-  top:-10px;
+  top:-25px;
   left: 50%;
-  width: 35px;
-  line-height: 30px;
+  display: block;
+  width: 50px;
+  line-height: 50px;
   border-radius: 50%;
   text-align: center;
   font-size: 16px;
   font-weight: 700;
   border: 1px solid #ededed;
   background: #fff;
+  margin-left: -25px;
 }
