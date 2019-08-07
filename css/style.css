@@ -24,14 +24,6 @@
   color: #ED145B;
 }
 
-.text-wh{
-  color: white;
-}
-
-.red-text {
-  color: #ED145B;
-}
-
 .footer-title {
   font-size: 16px;
   font-weight: 900;
@@ -39,14 +31,18 @@
   margin-bottom: 10px;
 }
 
+/* .text-wh{
+  color: white;
+} */
+
+.red-text {
+  color: #ED145B;
+}
+
+
 .mg-50 {
   margin-top: 50px; 
 }
-/* 
-.mg-60 {
-  margin-top: 60px; 
-  margin-bottom: 50px;
-} */
 
 .pT-60{
   padding-top:60px;
@@ -101,6 +97,7 @@
 .box {
   position: relative;
 }
+
 .ribbon {
   position: absolute;
   left: -5px; top: -5px;
@@ -126,6 +123,7 @@
   position: absolute;
   top: 19px; left: -21px;
 }
+
 .ribbon span::before {
   content: "";
   position: absolute; left: 0px; top: 100%;
