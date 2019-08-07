@@ -183,3 +183,20 @@
   background: #fff;
   margin-left: -25px;
 }
+
+.btn-suggest{
+  background: #1aa79b;
+  color: #fff;
+}
+
+.btn-tpview {
+  background: #fff;
+  color: #1aa79b;
+  border: 2px solid #cccccc;
+}
+
+.popular {
+  border-radius: 50px;
+  padding: 10px 20px;
+  font-size:16px; 
+}
